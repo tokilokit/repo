@@ -11,3 +11,17 @@ Section: tweaks
 Description: A Batterylife alternative! (Not an alternative)
 Author: Tokfrans03
 Name: batterylife
+
+Package: com.tokfrans.tsssaver
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: Tokfrans03
+Filename: /com.tokfrans.swipeformore.deb
+Size: 22010
+MD5sum: b36af3987d495d2b45886ec28b7786be
+SHA1: ea74e3f0da278a9a05648e5e02e53f667ceed3a0
+SHA256: ba7bdef89351c0cd1aefbb4de3a7453cb1ff510d79cd292ece7f6fbb2c9f92d3
+Section: tweaks
+Description: swipe for more options in cydia
+Author: Tokfrans03
+Name: swipeformore
