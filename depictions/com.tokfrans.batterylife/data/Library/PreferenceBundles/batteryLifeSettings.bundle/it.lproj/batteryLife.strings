@@ -1,0 +1,94 @@
+// Italian Translation
+// Created on January 15th 2015 by Simone Azzinelli
+
+//Settings Labels
+"enabledLabel" = "Attivo";
+"statusbarLabel" = "Barra di Stato";
+"additionalLabel" = "Personalizza";
+"hidebatteryLabel" = "Nascondi Icona";
+"temperatureunitLabel" = "Unità di Misura";
+"timeintervalLabel" = "Interv. Tempo";
+"batteryserialLabel" = "S/N Batteria";
+"versionLabel" = "Versione";
+"applychangesLabel" = "Applica cambiamenti (Respring)";
+"disableadsLabel" = "Rimuovi Ads";
+"donateLabel" = "Donazione (con PayPal)";
+"contactLabel" = "Contatti/Supporto";
+"faqLabel" = "Domande Frequenti";
+"translationsLabel" = "Traduzioni";
+"tweakLabel" = "My Tweaks";
+
+//Settings Text
+"enabledText" = "Attiva le funzionalità di Battery Life per la Lockscreen e la Status Bar";
+"optionsText" = "Scegli che tipo di informazioni visualizzare sulla parte destra della Barra di Stato. Consiglio: Nascondi l’Icona della batteria quando attivi più di due opzioni.";
+"temperatureunitText" = "Scegli la tua Unità di Misura per la temperatura.";
+"timeintervalText" = "Selezione l’intervallo di tempo (instant/1 m/5 m/15 m) per l’opzione \"remaining time\" and \"(dis-)charge mA\".";
+"respringText" = "Effettua un Respring per applicare i cambiamenti.";
+"disableadsText" = "Puoi eliminare le pubblicità nell’applicazione.\nSe vuoi, prendi in considerazione una piccola donazione. Ho lavorato molto per Battery Life. Grazie!";
+
+//Donate Message
+"donate" = "Donazione";
+"donateCall" = "Effettua una donazione se disabiliti le pubblicità. Grazie!";
+"donateMessage" = "Seleziona la tua valuta. Grazie per la donazione!";
+"back" = "Indietro";
+
+//Settings options
+"none" = "Vuoto";
+"percent" = "%";
+"percentWithSpace" = "% e spazio";
+"decimal" = "decimale";
+"remainingmAh" = "mAh rimanenti";
+"remainingmAhAndUnit" = " mAh rimanenti + unità";
+"dischargemA" = "(dis-)charge mA";
+"dischargemAAndUnit" = "(dis-)charge mA + unità";
+"actualMaxCapacity" = "capacità massima attuale";
+"actualMaxCapacityAndPercent" = "capacità massima attuale + % (simbolo)";
+"actualMaxCapacityDecimal" = "capacità massima attuale (decimale)";
+"temperature" = "temperature";
+"temperatureAndUnit" = "temperatura + unità";
+"remainingTime" = "rtempo restante (solo non in carica)";
+
+//Temperature options
+"celsius" = "°C";
+"fahrenheit" = "°F";
+
+//Interval options
+"instant" = "Instantaneo";
+"1min" = "1 min";
+"5min" = "5 min";
+"15min" = "15 min";
+
+//Main App (Temporary)
+"settingsMoved" = "Le Impostazioni sono state spostate";
+"settingsMovedText" = "Tutto il necessario adesso è in nell’app Impostazioni.\nPotrai anche disabilitare le pubblicità.";
+
+//FAQ (OPTIONAL - NO NEED TO TRANSLATE AT THE MOMENT)
+"question1" = "Cosa fa, esattamente, il pulsante attiva?";
+"answer1" = "Se attivato, visualizzerai dettagli più precisi, in merito alla tua batteria, nella Barra di Stato e nella Lockscreen.\nLe informazioni di base sono poco accurate, perchè non aggiornate costantemente. Il lato negativo è la durata della batteria sarà minore, se attivato. Leggi la domanda seguente per ulteriori informazioni.";
+"question2" = "Aiuto! La percentuale della batteria non è così precisa. Perché?";
+"answer2" = "Non ti preoccupare, la tua batteria probabilmente è OK. Questo accade, in modo molto strano, su iOS8+.\nDa quando Apple ha cambiato il modo di calcolare la percentuale di carica. Prima era tutto calcolato in modo differente. Su iOS8 non dipende più da un algoritmo ben preciso, ma da quanto utilizzi il tuo device. (Giochi, Video). La percentuale può oscillare parecchio. (per esempio da 90% a 80% in un paio di minuti). Un’altra cosa importante è la temperatura.";
+"question3" = "La temperatura è importante per la sua durata?";
+"answer3" = "Si, certo!.\nAlta e la bassa capacità dipendono dalla temperatura. Si la temperatura è bassa (<20 °C/<70 °F) la capacità potrebbe risultare più bassa del solito. Se, invece, è alta (>30°C/>90°F) la capacità sarà più alta.\nRicorda: Esporre la batteria ad alte o basse temperature, al contrario delle specifiche Apple, può permanentemente ridurre la capacità della batteria.";
+"question4" = "Quando dovrò sostituirla?";
+"answer4" = "Quando pensi che la durata media giornaliera sia scarsa.\nAll' 80% noterai un calo del 20%. Significa una perdita di 2 ore di durata chiamate se al 100% (di durata chiamate) equivale a 10 ore. Non penso sia un buon motivo per cambiarla. Se invece oscilla tra il 60% ed il 70%, dovresti proprio cambiarla.\nDa quanto ho constatato, il dispositivo è più propenso ai cambiamenti di temperatura, se la sua capacità è intorno al 70%. Potrebbe anche spegnersi del tutto, anche se appena caricato. ";
+
+//New translations February 15th 2015
+//Settings Title
+"dischargeTitle" = "Discharge Options";
+"chargeTitle" = "Charge Options";
+
+//Settings Labels
+"option1Label" = "Option #1";
+"option2Label" = "Option #2";
+"chargingindicatorLabel" = "Charging Indicator";
+
+//Settings Text
+"options2Text" = "Choose different options while your device is connected to a charger.";
+
+//Settings Options
+"dischargemA" = "discharge mA";
+"dischargemAAndUnit" = "discharge mA + unit";
+"chargemA" = "charge mA";
+"chargemAAndUnit" = "charge mA + unit";
+"remainingTimeFormat1" = "remaining time (format: 2:30h)";
+"remainingTimeFormat2" = "remaining time (format: 2.5h)";

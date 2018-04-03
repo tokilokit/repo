@@ -1,0 +1,90 @@
+// Created on January 30th 2015 by Ahmed Rashad
+// Updated on February 15th 2015 by Ahmed Rashad
+
+//Settings Labels
+"enabledLabel" = "تفعيل";
+"statusbarLabel" = "الشريط العلوي";
+"additionalLabel" = "الإضافات";
+"hidebatteryLabel" = "إخفاء علامة البطارية";
+"temperatureunitLabel" = "وحدة الحرارة";
+"timeintervalLabel" = "معدل تحديث الوقت";
+"batteryserialLabel" = "رقم البطارية المسلسل";
+"versionLabel" = "الإصدار";
+"applychangesLabel" = "تفعيل التغيرات  (يجب إعادة التشغيل) ";
+"disableadsLabel" = "إلغاء الاعلانات";
+"donateLabel" = "التبرع (عن طريق PayPal)";
+"contactLabel" = "الإتصال/الدعم";
+"faqLabel" = "الأسئلة المتكررة";
+"translationsLabel" = "اللغة";
+"tweakLabel" = "My Tweaks";
+
+//Settings Text
+"enabledText" = "يجب التفعيل لتحديث معلومات البطارية فى الشريط العلوى وشاشة القفل.";
+"optionsText" = "اختار بين افضل المعلومات المتاحة التى تظهر على يمين الشريط العلوى.يجب اخفاء علامة البطارية فى حالة استخدام اكثر من اختيارين الا لن تظهر حالة البطارية على الاطلاق";
+"temperatureunitText" = "إختار وحدة البطارية المفضلة.";
+"timeintervalText" = "اختار معدل تحديث الوقت بين (حالى/1 دقيقة/5 دقائق/15 دقيقة) لخاصية الوقت المتبقى ومعدل انخفاض الشحن ";
+"respringText" = "يجب اعادة التشغيل لتفعيل التحديثات";
+"disableadsText" = "يمكنك إلغاء جميع الاعلانات من البرنامج.\nارجو التبرع ولو بمبلغ صغير للجهد المبذول فى البرنامج. شكرا.";
+
+//Donate Message
+"donate" = "تبرع";
+"donateCall" = "ارجو التبرع فى حالة إلغاء الإعلانات. شكرا";
+"donateMessage" = "اختار عملتك المفضلة. شكرا";
+"back" = "رجوع";
+
+//Settings options
+"none" = "لا شئ";
+"percent" = "%";
+"percentWithSpace" = "% مع مسافة";
+"decimal" = "عشري";
+"remainingmAh" = "الملى امبير / الساعات المتبقية";
+"remainingmAhAndUnit" = "الملى امبير / الساعات المتبقية + الوحدة";
+"dischargemA" = "الملى امبيرات المنخفضة";
+"dischargemAAndUnit" = "الملى امبيرات المنخفضة + الوحدة";
+"actualMaxCapacity" = "اقصى استعياب فعلى للبطارية";
+"actualMaxCapacityAndPercent" = "اقصى استعياب فعلى للبطارية + علامة %";
+"actualMaxCapacityDecimal" = " اقصى استعياب فعلى (عشرى) للبطارية";
+"temperature" = "درجة الحرارة";
+"temperatureAndUnit" = "درجة الحرارة + الوحدة";
+"remainingTime" = "الوقت المتبقى (الإنخفاض فى الشحن فقط)";
+
+//Temperature options
+"celsius" = "سيلزيوس";
+"fahrenheit" = "فهرنهايت";
+
+//Interval options
+"instant" = "حالى";
+"1min" = "1 دقيقة";
+"5min" = "5 دقائق";
+"15min" = "15 دقيقة";
+
+//FAQ (OPTIONAL - NO NEED TO TRANSLATE AT THE MOMENT)
+"question1" = "What exactly does the enabled switch do?";
+"answer1" = "If you enable the switch, you will get a more accurate battery information on your status bar and lock screen.\nThe default battery info can be inaccurate, because it isn't updated very often. On the downside you may experience some battery fluctuations while the switch is enabled. Read the next question for more info about fluctuations.";
+"question2" = "Help! My batteries' capacity fluctuates a lot. Why does that happen?";
+"answer2" = "Don't worry, your battery is probably fine. This is an usual behavior and happens mostly on iOS 8+.\nSince iOS 8 Apple has changed the method to read battery data. Before iOS 8 the capacity was an average value of multiple measurements. On iOS 8 the capacity is no longer an average value and depending on the usage of your device (Games, Videos) the capacity can fluctuate a lot (for example from 80% to 90% during a few minutes). Another important factor is the current temperature.";
+"question3" = "Does the temperature affect the battery capacity?";
+"answer3" = "Yes, it does.\nDepending on the temperature you may have a higher or lower capacity. If your battery is at a low temperature (<20 °C/<70 °F) the capacity may be lower than usual. Likewise if your battery is at a high temperature (>30°C/>90°F) the battery capacity may be higher than usual.\nRemember: Continued exposure to very high or very low temperatures, outside of Apple's specifications, may permanently decrease your batteries' capacity and life.";
+"question4" = "When should I get a new battery?";
+"answer4" = "You should get a new battery if you think the daily use of your device is limited by the battery.\nAt 80% capacity, you will experience a decrease of 20%. This means a loss of 2 hours of talk time if your device's talktime at 100% is 10 hours. I don't think that is a reason to replace the battery. Now if your capacity were to fluctuate between 60% and 70%, you should consider getting a new battery.\nFrom my experience, your device is also more prone to temperature changes at capacities of 70% or less, in particular to low temperatures. It may just shut down even though the battery was fully charged a short while ago.";
+
+//New translations February 15th 2015
+//Settings Title
+"dischargeTitle" = "خصائص الاستهلاك";
+"chargeTitle" = "خصائص الشحن";
+
+//Settings Labels
+"option1Label" = "الإختيار #1";
+"option2Label" = "الإختيار #2";
+"chargingindicatorLabel" = "مؤشر الشحن";
+
+//Settings Text
+"options2Text" = "إختيار بديل آخر فى حالة توصيل الجهاز بالشاحن";
+
+//Settings Options
+"dischargemA" = "الملى امبيرات المنخفضة";
+"dischargemAAndUnit" = "الملى امبيرات المنخفضة + الوحدة";
+"chargemA" = "الشحن بالميللى امبير";
+"chargemAAndUnit" = "الشحن بالميلى امبير + الوحدة";
+"remainingTimeFormat1" = "الوقت المتبقى (2:30س)";
+"remainingTimeFormat2" = "الوقت المتبقى (2.50س)";
