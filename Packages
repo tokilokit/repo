@@ -12,7 +12,7 @@ Description: A Batterylife alternative! (Not an alternative)
 Author: Tokfrans03
 Name: batterylife
 
-Package: com.tokfrans.tsssaver
+Package: com.tokfrans.swipeformore
 Version: 1.1.7
 Architecture: iphoneos-arm
 Maintainer: Tokfrans03
