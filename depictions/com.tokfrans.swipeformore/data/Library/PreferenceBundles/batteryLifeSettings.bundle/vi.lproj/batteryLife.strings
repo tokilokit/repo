@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>15min</key>
+	<string>15 phút</string>
+	<key>1min</key>
+	<string>1 phút</string>
+	<key>5min</key>
+	<string>5 phút</string>
+	<key>actualMaxCapacity</key>
+	<string>Mức dung tích tối đa</string>
+	<key>actualMaxCapacityAndPercent</key>
+	<string>Mức dung tích tối đa (có %)</string>
+	<key>actualMaxCapacityDecimal</key>
+	<string>Mức dung tích tối đa (số thập phân)</string>
+	<key>additionalLabel</key>
+	<string>Thêm nữa</string>
+	<key>answer1</key>
+	<string>Nếu bạn bật công tắc, bạn sẽ có thông tin về pin chính xác hơn trên thanh trạng thái và màn hình khoá.
+Thông tin mặc định về pin có thể không chính xác, bởi vì nó không cập nhật thường xuyên. Về mặt tiêu cực bạn có thể gặp phải sự dao động pin khi công tắc đã bật. Đọc câu hỏi tiếp theo để có thêm thông tin về sự dao động.</string>
+	<key>answer2</key>
+	<string>Đừng lo, pin của bạn có lẽ ổn. Đây là tính cách bình thường và thường xảy ra trên iOS 8+.
+Từ khi ra mắt iOS 8, Apple đã đổi phương thức đọc dữ liệu pin. Trước iOS 8 dung tích có giá trị trung bình của nhiều phép đo. Trên iOS 8 dung tích pin không còn là giá trị trung bình và phụ thuộc vào mức sử dụng của máy bạn (Game, Video,...), Sự dao động có thể liên tục (Ví dụ: Từ 80% đến 90% trong vài phút). Một hệ số quan trọng nữa là nhiệt độ hiện tại.</string>
+	<key>answer3</key>
+	<string>Có.
+Phụ thuộc vào nhiệt độ mà pin của bạn có thể có dung tích cao hơn hoặc thấp hơn. Nếu pin của bạn có nhiệt độ thấp (&lt;20 °C/&lt;70 °F) dung tích sẽ thấp hơn bình thường. Tương tự nếu pin của bạn có nhiệt độ cao (&gt;30°C/&gt;90°F) dung tích sẽ cao hơn bình thường.
+Hãy nhớ: Nếu cứ tiếp tục để pin nhiệt độ quá cao hoặc quá thấp, ngoài thiết kế của Apple, có thể vĩnh viễn làm giảm tuổi thọ và dung tích của pin.</string>
+	<key>answer4</key>
+	<string>Tôi nghĩ bạn cần cục pin mới nếu mỗi ngày sử dụng bị giới hạn bởi cục pin.
+Ở dung tích mức 80%, bạn sẽ gặp phải sự giảm 20% pin. Nghĩa là mất 2 tiếng sử dụng nếu thời gian sử dụng máy bạn ở 100% là 10 tiếng. Tôi không nghĩ không cần phải thay pin. Nếu dung tích pin dao động giữa 60% và 70%, thì bạn nên xem xét việc mua cục pin mới.
+Từ kinh nghiệm của tôi, máy bạn cũng nghiêng tới sự thay đổi nhiệt độ ở dung tích 70% hoặc thấp hơn, đặc biệt là nhiệt độ thấp. Nó có thể sập nguồn mặc dù pin được nạp đầy vào thời gian gần đây.</string>
+	<key>applychangesLabel</key>
+	<string>Áp dụng thay đổi (khởi động lại)</string>
+	<key>back</key>
+	<string>Quay lại</string>
+	<key>batteryserialLabel</key>
+	<string>Số sê-ri pin</string>
+	<key>celsius</key>
+	<string>°C</string>
+	<key>chargeTitle</key>
+	<string>Thanh trạng thái khi đang sạc</string>
+	<key>chargemA</key>
+	<string>Mức mA khi đag sạc</string>
+	<key>chargemAAndUnit</key>
+	<string>Mức mA khi đag sạc + đơn vị</string>
+	<key>chargingindicatorLabel</key>
+	<string>Chỉ số khi đang sạc</string>
+	<key>contactLabel</key>
+	<string>Liên lạc/Hỗ trợ</string>
+	<key>decimal</key>
+	<string>Số thập phân</string>
+	<key>disableadsLabel</key>
+	<string>Tắt quảng cáo</string>
+	<key>disableadsText</key>
+	<string>Bạn có thể tắt tất cả quảng cáo trong ứng dụng
+Nếu bạn làm vậy, hãy xem xét về việc quyên góp số tiền nhỏ cho mấy tiếng mà tôi bỏ vào battery life. Cảm ơn!</string>
+	<key>dischargeTitle</key>
+	<string>Thanh trạng thái khi không sạc</string>
+	<key>dischargemA</key>
+	<string>Mức mA khi ko sạc</string>
+	<key>dischargemAAndUnit</key>
+	<string>Mức mA khi ko sạc + đơn vị</string>
+	<key>donate</key>
+	<string>Quyên góp</string>
+	<key>donateCall</key>
+	<string>Hãy xem xét việc quyên góp nếu bạn tắt quảng cáo. Cám ơn!</string>
+	<key>donateLabel</key>
+	<string>Quyên góp (qua PayPal)</string>
+	<key>donateMessage</key>
+	<string>Hãy chọn loại tiền tệ mà bạn dùng. Cám ơn đã quyên góp!</string>
+	<key>enabledLabel</key>
+	<string>Kích hoạt</string>
+	<key>enabledText</key>
+	<string>Bật để thay đổi thông tin pin trên thanh trạng thái và màn hình khóa</string>
+	<key>fahrenheit</key>
+	<string>°F</string>
+	<key>faqLabel</key>
+	<string>Những câu hỏi thường gặp</string>
+	<key>hidebatteryLabel</key>
+	<string>Ẩn logo pin</string>
+	<key>instant</key>
+	<string>Ngay lập tức</string>
+	<key>none</key>
+	<string>Không có</string>
+	<key>option1Label</key>
+	<string>Cấu hình #1</string>
+	<key>option2Label</key>
+	<string>Cấu hình #2</string>
+	<key>options2Text</key>
+	<string>Chọn cấu hình khác nhau khi máy bạn được cắm sạc.</string>
+	<key>optionsText</key>
+	<string>Chọn loại cấu hình hiển thị ở góc phải thanh trạng thái khi không cắm sạc. Bạn nên ẩn logo pin khi sử dụng hơn 2 cấu hình hoặc thanh trạng thái sẽ không hiển thị hết tất cả thông số</string>
+	<key>percent</key>
+	<string>%</string>
+	<key>percentWithSpace</key>
+	<string>% có khoảng cách</string>
+	<key>question1</key>
+	<string>Chính xác là công tắc Đã bật dùng để làm gì?</string>
+	<key>question2</key>
+	<string>Giúp tôi! Dung tích pin của tôi dao động liên tục. Tại sao chuyện này xảy ra?</string>
+	<key>question3</key>
+	<string>Nhiệt độ có ảnh hưởng đến dung tích pin không?</string>
+	<key>question4</key>
+	<string>Khi nào tôi cần cục pin mới?</string>
+	<key>remainingTime</key>
+	<string>Thời gian còn lại (chỉ khi không sạc)</string>
+	<key>remainingTimeFormat1</key>
+	<string>Thời gian còn lại (Đ.dạng 2:30h)</string>
+	<key>remainingTimeFormat2</key>
+	<string>Thời gian còn lại (Đ.dạng 2.5h)</string>
+	<key>remainingmAh</key>
+	<string>Còn lại</string>
+	<key>remainingmAhAndUnit</key>
+	<string>Mức mAh còn lại + đơn vị</string>
+	<key>respringText</key>
+	<string>Bạn phải khởi động lại để áp dụng cài đặt mới</string>
+	<key>statusbarLabel</key>
+	<string>Thanh trạng thái</string>
+	<key>temperature</key>
+	<string>Nhiệt độ</string>
+	<key>temperatureAndUnit</key>
+	<string>Nhiệt độ + đơn vị</string>
+	<key>temperatureunitLabel</key>
+	<string>Đơn vị đo nhiệt độ</string>
+	<key>temperatureunitText</key>
+	<string>Chọn đơn vị nhiệt độ mà bạn thích</string>
+	<key>timeintervalLabel</key>
+	<string>Khoảng thời gian</string>
+	<key>timeintervalText</key>
+	<string>Chọn khoảng thời gian làm mới thông tin trên thanh trạng thái (ngay lập tức/1 phút/5 phút/15 phút) cho cấu hình "thời gian còn lại", "Mức mA khi sạc", "Mức mA khi không sạc".</string>
+	<key>translationsLabel</key>
+	<string>Dịch</string>
+	<key>tweakLabel</key>
+	<string>Những tweak khác của tôi</string>
+	<key>versionLabel</key>
+	<string>Phiên bản</string>
+</dict>
+</plist>

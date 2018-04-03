@@ -7,8 +7,21 @@ Size: 2586796
 MD5sum: c5d4ff56abc96e57c9d0d85fc69fbbb4
 SHA1: b27682789f6926b98df9e6a99176e3f37a06944a
 SHA256: dfce6fd6fa10da5d5cd68fac90b093684bfd615b5b529d5e9c6f720825eedba9
-Section: tweaks
+Section: apps
 Description: A Batterylife alternative! (Not an alternative)
 Author: Tokfrans03
 Name: batterylife
 Depiction: https://tokilokit.github.io/repo/depictions/batterylife
+
+Package: com.tokfrans.swipeformore
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: Tokfrans03
+Filename: ./debs/com.tokfrans.swipeformore.deb
+Size: 22010
+MD5sum: b36af3987d495d2b45886ec28b7786be
+Section: tweaks
+Description: swipe for more options in cydia
+Author: Tokfrans03
+Name: swipeformore
+Depiction: https://tokilokit.github.io/repo/depictions/swipeformore
