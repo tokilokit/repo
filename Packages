@@ -1,0 +1,13 @@
+Package: com.tokfrans.batterylife
+Name: Batterylife
+Depends:
+Version: 1.7.0
+Architecture: iphoneos-arm
+Description: A Batterylife alternative! (Not an alternative)
+Maintainer: Tokfrans03
+Author: Tokfrans03
+Section: Tweaks
+Filename: ./debs/com.tokfrans.batterylife.deb
+Depiction: https://tokilokit.github.io/depictions/batterylife
+Size: 2588510
+MD5sum: C5D4FF56ABC96E57C9D0D85FC69FBBB4
