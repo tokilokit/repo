@@ -11,3 +11,16 @@ Filename: ./debs/com.tokfrans.batterylife.deb
 Depiction: https://tokilokit.github.io/depictions/batterylife
 Size: 2588510
 MD5sum: C5D4FF56ABC96E57C9D0D85FC69FBBB4
+Package: Ex: com.frostzone.helloworld
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tokfrans03
+Filename: /.deb
+Size: 
+MD5sum: Error
+SHA1: Error
+SHA256: Error
+Section: Ex: Tweaks, Theme
+Description: An awesome mobile substrate tweak
+Author: Tokfrans03
+Name: Tweak name
