@@ -2,7 +2,7 @@ Package: com.tokfrans.batterylife
 Version: 1.7.0
 Architecture: iphoneos-arm
 Maintainer: Tokfrans03
-Filename: /com.tokfrans.batterylife.deb
+Filename: ./debs/com.tokfrans.batterylife.deb
 Size: 2586796
 MD5sum: c5d4ff56abc96e57c9d0d85fc69fbbb4
 SHA1: b27682789f6926b98df9e6a99176e3f37a06944a
