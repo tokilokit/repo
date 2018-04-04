@@ -1,0 +1,91 @@
+// Korean Translation
+// Created on January 15th 2015 by @wingra13
+
+//Settings Labels
+"enabledLabel" = "활성화";
+"statusbarLabel" = "배터리 정보 1";
+"additionalLabel" = "배터리 정보 2";
+"hidebatteryLabel" = "배터리 아이콘 숨기기";
+"temperatureunitLabel" = "온도 단위";
+"timeintervalLabel" = "갱신 간격";
+"batteryserialLabel" = "배터리 시리얼 넘버";
+"versionLabel" = "BatteryLife 버전";
+"applychangesLabel" = "설정 저장하기 (리스프링)";
+"disableadsLabel" = "광고 제거";
+"donateLabel" = "PayPal로 기부하기";
+"contactLabel" = "버그 신고";
+"faqLabel" = "FAQ";
+"translationsLabel" = "번역에 도움을 주신 분들";
+"tweakLabel" = "My Tweaks";
+
+//Settings Text
+"enabledText" = "상태 바의 퍼센트 정보를 다른 정보로 바꿀 수 있습니다.";
+"optionsText" = "원하는 정보를 고를 수 있습니다. 2가지 정보를 모두 활성화할 경우에는 배터리 아이콘을 숨겨야 정상적으로 작동합니다.";
+"temperatureunitText" = "화씨와 섭씨를 고를 수 있습니다.";
+"timeintervalText" = "정보 갱신 간격을 고를 수 있습니다. (20초/1분/5분/15분).";
+"respringText" = "변경사항을 적용하려면 리스프링이 필요합니다.";
+"disableadsText" = "BatteryLife 앱 내의 모든 광고를 해제할 수 있습니다.\n만약 해제하신다면, 개발하면서 커피라도 한 잔 사먹을 수 있도록 조금이라도 기부해주시면 감사하겠습니다 :D";
+
+//Donate Message
+"donate" = "기부하기";
+"donateCall" = "광고수익 없이도 개발이 계속될 수 있기를 원하시면 약간의 기부도 괜찮습니다. 뭐 그냥 그렇다구요.";
+"donateMessage" = "유로와 달러 중 선호하는 화폐 단위로 기부할 수 있습니다. \n기부해주셔서 감사합니다!";
+"back" = "돌아가기";
+
+//Settings options
+"none" = "선택하지 않음";
+"percent" = "% (ios 기본 %보다 더욱 정확합니다)";
+"percentWithSpace" = "% (+간격)";
+"decimal" = "% (+소수점)";
+"remainingmAh" = "남은 mAh";
+"remainingmAhAndUnit" = "남은 mAh (단위 표시)";
+"dischargemA" = "충/방전 mA";
+"dischargemAAndUnit" = "충/방전 mA (단위 표시)";
+"actualMaxCapacity" = "실제 배터리 용량";
+"actualMaxCapacityAndPercent" = "실제 배터리 용량 (단위 표시)";
+"actualMaxCapacityDecimal" = "실제 배터리 용량 (소수점 표시)";
+"temperature" = "배터리 셀 온도";
+"temperatureAndUnit" = "배터리 셀 온도 (단위 표시)";
+"remainingTime" = "방전까지 남은 시간 (충전시에는 숨김)";
+
+//Temperature options
+"celsius" = "°C";
+"fahrenheit" = "°F";
+
+//Interval options
+"instant" = "5-20초";
+"1min" = "1분";
+"5min" = "5분";
+"15min" = "15분";
+
+
+//FAQ (OPTIONAL - NO NEED TO TRANSLATE AT THE MOMENT)
+"question1" = "What exactly does the enabled switch do?";
+"answer1" = "If you enable the switch, you will get a more accurate battery information on your status bar and lock screen.\nThe default battery info can be inaccurate, because it isn't updated very often. On the downside you may experience some battery fluctuations while the switch is enabled. Read the next question for more info about fluctuations.";
+"question2" = "Help! My batteries' capacity fluctuates a lot. Why does that happen?";
+"answer2" = "Don't worry, your battery is probably fine. This is an usual behavior and happens mostly on iOS 8+.\nSince iOS 8 Apple has changed the method to read battery data. Before iOS 8 the capacity was an average value of multiple measurements. On iOS 8 the capacity is no longer an average value and depending on the usage of your device (Games, Videos) the capacity can fluctuate a lot (for example from 80% to 90% during a few minutes). Another important factor is the current temperature.";
+"question3" = "Does the temperature affect the battery capacity?";
+"answer3" = "Yes, it does.\nDepending on the temperature you may have a higher or lower capacity. If your battery is at a low temperature (<20 °C/<70 °F) the capacity may be lower than usual. Likewise if your battery is at a high temperature (>30°C/>90°F) the battery capacity may be higher than usual.\nRemember: Continued exposure to very high or very low temperatures, outside of Apple's specifications, may permanently decrease your batteries' capacity and life.";
+"question4" = "When should I get a new battery?";
+"answer4" = "You should get a new battery if you think the daily use of your device is limited by the battery.\nAt 80% capacity, you will experience a decrease of 20%. This means a loss of 2 hours of talk time if your device's talktime at 100% is 10 hours. I don't think that is a reason to replace the battery. Now if your capacity were to fluctuate between 60% and 70%, you should consider getting a new battery.\nFrom my experience, your device is also more prone to temperature changes at capacities of 70% or less, in particular to low temperatures. It may just shut down even though the battery was fully charged a short while ago.";
+
+//New translations February 15th 2015
+//Settings Title
+"dischargeTitle" = "Discharge Options";
+"chargeTitle" = "Charge Options";
+
+//Settings Labels
+"option1Label" = "Option #1";
+"option2Label" = "Option #2";
+"chargingindicatorLabel" = "Charging Indicator";
+
+//Settings Text
+"options2Text" = "Choose different options while your device is connected to a charger.";
+
+//Settings Options
+"dischargemA" = "discharge mA";
+"dischargemAAndUnit" = "discharge mA + unit";
+"chargemA" = "charge mA";
+"chargemAAndUnit" = "charge mA + unit";
+"remainingTimeFormat1" = "remaining time (format: 2:30h)";
+"remainingTimeFormat2" = "remaining time (format: 2.5h)";

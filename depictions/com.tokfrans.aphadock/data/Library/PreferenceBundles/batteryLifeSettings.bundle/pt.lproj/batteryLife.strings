@@ -1,0 +1,95 @@
+// Portuguese Translation
+// Created on January 15th 2015 by Roger Oba
+// Updated on February 17th 2015 by Roger Oba
+
+//Settings Labels
+"enabledLabel" = "Ativo";
+"statusbarLabel" = "Barra de status";
+"additionalLabel" = "Adicional";
+"hidebatteryLabel" = "Esconder ícone da bateria";
+"temperatureunitLabel" = "Unidade de temperatura";
+"timeintervalLabel" = "Intervalo de tempo";
+"batteryserialLabel" = "Serial da bateria";
+"versionLabel" = "Versão";
+"applychangesLabel" = "Aplicar alterações (Respring)";
+"disableadsLabel" = "Desabilitar propagandas";
+"donateLabel" = "Fazer doação (via PayPal)";
+"contactLabel" = "Contato/Suporte";
+"faqLabel" = "Perguntas Frequentes";
+"translationsLabel" = "Traduções";
+"tweakLabel" = "My Tweaks";
+
+//Settings Text
+"enabledText" = "Ative para alterar a informação da bateria da barra de status e da tela de bloqueio";
+"optionsText" = "Escolha o seu tipo de informação preferido a ser mostrado do lado direito da barra de status. Você deve desabilitar o ícone da bateria ao usar mais de 2 opções, ou a barra de status pode não aparecer.";
+"temperatureunitText" = "Escolha a unidade de temperatura";
+"timeintervalText" = "Escolha o intervalo de tempo (instantâneo/1min/5mins) para a opção \"tempo restante\" e \"(des-)carga mA\".";
+"respringText" = "Você deve respring para aplicar as alterações.";
+"disableadsText" = "Você pode desabilitar todas as propagandas dentro do app.\nSe você o fizer, por favor considere doar uma pequena quantia em troca das muitas horas que dediquei ao Battery Life. Obrigado!";
+
+//Donate Message
+"donate" = "Fazer doação";
+"donateCall" = "Por favor considere fazer uma doação se você desabilitar as propagandas. Obrigado!";
+"donateMessage" = "Escolha a sua moeda de preferência. Obrigado pela doação!";
+"back" = "Voltar";
+
+//Settings options
+"none" = "Nenhum";
+"percent" = "%";
+"percentWithSpace" = "% com espaço";
+"decimal" = "decimal";
+"remainingmAh" = "mAh restantes";
+"remainingmAhAndUnit" = "mAh restantes + unidade";
+"dischargemA" = "(des-)carga mA";
+"dischargemAAndUnit" = "(des-)carga mA + unidade";
+"actualMaxCapacity" = "Capacidade máxima real";
+"actualMaxCapacityAndPercent" = "Capacidade máxima real + símbolo %";
+"actualMaxCapacityDecimal" = "Capacidade máxima real (decimal)";
+"temperature" = "temperatura";
+"temperatureAndUnit" = "temperatura + unidade";
+"remainingTime" = "Tempo restante (somente descarga)";
+
+//Temperature options
+"celsius" = "°C";
+"fahrenheit" = "°F";
+
+//Interval options
+"instant" = "Instantâneo";
+"1min" = "1 min";
+"5min" = "5 mins";
+"15min" = "15 mins";
+
+//Main App (Temporary)
+"settingsMoved" = "As Configurações Mudaram";
+"settingsMovedText" = "Por favor vá até os Ajustes do seu aparelho para configurar o Battery Life.\nVocê também irá encontrar opções para desativar todas as propagandas.";
+
+//FAQ (OPTIONAL - NO NEED TO TRANSLATE AT THE MOMENT)
+"question1" = "What exactly does the enabled switch do?";
+"answer1" = "If you enable the switch, you will get a more accurate battery information on your status bar and lock screen.\nThe default battery info can be inaccurate, because it isn't updated very often. On the downside you may experience some battery fluctuations while the switch is enabled. Read the next question for more info about fluctuations.";
+"question2" = "Help! My batteries' capacity fluctuates a lot. Why does that happen?";
+"answer2" = "Don't worry, your battery is probably fine. This is an usual behavior and happens mostly on iOS 8+.\nSince iOS 8 Apple has changed the method to read battery data. Before iOS 8 the capacity was an average value of multiple measurements. On iOS 8 the capacity is no longer an average value and depending on the usage of your device (Games, Videos) the capacity can fluctuate a lot (for example from 80% to 90% during a few minutes). Another important factor is the current temperature.";
+"question3" = "Does the temperature affect the battery capacity?";
+"answer3" = "Yes, it does.\nDepending on the temperature you may have a higher or lower capacity. If your battery is at a low temperature (<20 °C/<70 °F) the capacity may be lower than usual. Likewise if your battery is at a high temperature (>30°C/>90°F) the battery capacity may be higher than usual.\nRemember: Continued exposure to very high or very low temperatures, outside of Apple's specifications, may permanently decrease your batteries' capacity and life.";
+"question4" = "When should I get a new battery?";
+"answer4" = "You should get a new battery if you think the daily use of your device is limited by the battery.\nAt 80% capacity, you will experience a decrease of 20%. This means a loss of 2 hours of talk time if your device's talktime at 100% is 10 hours. I don't think that is a reason to replace the battery. Now if your capacity were to fluctuate between 60% and 70%, you should consider getting a new battery.\nFrom my experience, your device is also more prone to temperature changes at capacities of 70% or less, in particular to low temperatures. It may just shut down even though the battery was fully charged a short while ago.";
+
+//New translations February 15th 2015
+//Settings Title
+"dischargeTitle" = "Opções de descarga";
+"chargeTitle" = "Opções de carga";
+
+//Settings Labels
+"option1Label" = "Opção #1";
+"option2Label" = "Opção #2";
+"chargingindicatorLabel" = "Indicador de Carga";
+
+//Settings Text
+"options2Text" = "Escolha diferentes opções pra quando seu aparelho estiver conectado à tomada.";
+
+//Settings Options
+"dischargemA" = "descarga mA";
+"dischargemAAndUnit" = "descarga mA + unidade";
+"chargemA" = "carga mA";
+"chargemAAndUnit" = "carga mA + unidade";
+"remainingTimeFormat1" = "tempo restante (formato: 2:30h)";
+"remainingTimeFormat2" = "tempo restante (formato: 2.5h)";

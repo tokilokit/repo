@@ -1,0 +1,91 @@
+// Created on January 11th 2015 by rbt
+// Updated on January 16th 2015 by Florent Le Moël
+// Updated on February 15th 2015 by Florent Le Moël
+
+//Settings Labels
+"enabledLabel" = "Activé";
+"statusbarLabel" = "Barre de Statut";
+"additionalLabel" = "Info additionnelle";
+"hidebatteryLabel" = "Cacher l'icône de batterie";
+"temperatureunitLabel" = "Unité de Température";
+"timeintervalLabel" = "Intervalle de temps";
+"batteryserialLabel" = "Num. de Série Batterie";
+"versionLabel" = "Version";
+"applychangesLabel" = "Appliquer Changements (Respring)";
+"disableadsLabel" = "Désactiver Publicités";
+"donateLabel" = "Faire un don (via PayPal)";
+"contactLabel" = "Contact / Support";
+"faqLabel" = "Foire Aux Questions";
+"translationsLabel" = "Traductions";
+"tweakLabel" = "My Tweaks";
+
+//Settings Text
+"enabledText" = "Activez ceci pour changer les informations de la batterie dans la Barre de Statut et sur l'écran de verrouillage.";
+"optionsText" = "Choisissez ici vos types d'informations préférés à afficher dans la partie droite de la Barre de Statut.\nIl est conseillé de cacher l'icône de batterie si vous utilisez plus de 2 options, ou les informations risquent de ne pas apparaître du tout.";
+"temperatureunitText" = "Choisissez ici votre unité de température préférée.";
+"timeintervalText" = "Sélectionnez ici l'intervalle de temps (instantané / 1 min / 5 min / 15 min) pour les options \"temps restant\" et \"mA (dé-)charge\".";
+"respringText" = "Vous devez effectuer un Respring pour appliquer les nouveaux réglages.";
+"disableadsText" = "Vous pouvez désactiver toutes les publicités présentes dans l'App.\nSi vous faites cela, veuillez envisager de donner une petite somme pour toutes les heures consacrées à Battery Life. Merci !";
+
+//Donate Message
+"donate" = "Faire un don";
+"donateCall" = "Merci de faire un don si vous désactivez les publicités !";
+"donateMessage" = "Veuillez choisir votre devise préférée. Merci pour votre don !";
+"back" = "Retour";
+
+//Settings options
+"none" = "Aucune";
+"percent" = "%";
+"percentWithSpace" = "% avec espace";
+"decimal" = "décimale";
+"remainingmAh" = "mAh restants";
+"remainingmAhAndUnit" = "mAh restants + unité";
+"dischargemA" = "mA (dé-)charge";
+"dischargemAAndUnit" = "mA (dé-)charge + unité";
+"actualMaxCapacity" = "capacité max. réelle";
+"actualMaxCapacityAndPercent" = "capacité max. réelle + symbole %";
+"actualMaxCapacityDecimal" = "capacité max. réelle (décimale)";
+"temperature" = "température";
+"temperatureAndUnit" = "température + unité";
+"remainingTime" = "temps restant (décharge seulement)";
+
+//Temperature options
+"celsius" = "°C";
+"fahrenheit" = "°F";
+
+//Interval options
+"instant" = "Instantané";
+"1min" = "1 min.";
+"5min" = "5 min.";
+"15min" = "15 min.";
+
+//FAQ (OPTIONAL - NO NEED TO TRANSLATE AT THE MOMENT)
+"question1" = "À quoi sert exactement le bouton Activer ?";
+"answer1" = "Si vous activez ce bouton, vous obtiendrez de plus précises informations sur votre batterie, dans la Barre de Statut et sur l'écran de verrouillage.\nLes informations d'origine peuvent être imprécises car elles ne sont pas actualisées très souvent.\nCependant, vous risquez d'observer quelques fluctuations de la capacité de votre batterie lorsque ce bouton est actif. Veuillez vous reporter à la question suivante pour plus d'informations sur les fluctuations.";
+"question2" = "Au secours ! La capacité de ma batterie varie énormément. Pourquoi ?";
+"answer2" = "Ne vous inquiétez pas, votre batterie fonctionne certainement très bien. Ce comportement est fréquent, et ce surtout sous iOS 8 et +.\nAvec iOS 8, Apple a changé la méthode de lecture des informations de la batterie. Avant iOS 8, la capacité était une valeur moyenne résultant de plusieurs mesures. Sur iOS 8, la capacité n'est plus une valeur moyenne, mais celle-ci dépend de l'utilisation de votre appareil (Jeux, Vidéos). Celle-ci fluctue donc beaucoup (de 80% à 90% par exemple, en quelques minutes).\nLa température est également un facteur important.";
+"question3" = "La température affecte-t-elle la capacité de la batterie ?";
+"answer3" = "Oui.\nEn fonction de la température, la capacité est plus ou moins élevée. Si la température de votre batterie est basse (<20°C / <70°F), la capacité peut être plus basse que d'habitude. De même façon, si la température de votre batterie est plus haute (>30°C / >90°F) la capacité peut être plus haute que d'habitude.\nRappel : Une exposition continue à de trop hautes ou de trop basses températures en dehors des recommandations fournies par Apple, peut endommager définitivement votre batterie.";
+"question4" = "Quand dois-je remplacer ma batterie ?";
+"answer4" = "Vous devez remplacer votre batterie lorsque vous estimez que l'usage quotidien de votre appareil est limité par celle-ci.\nPar exemple, à 80% de sa capacité, elle aura subi une perte de 20% : cela correspond à une perte de 2 heures de temps de conversation si ce temps était de 10 heures à 100% de capacité. Cela ne justifie pas vraiment un remplacement de la batterie. Par contre, si votre capacité fluctue entre 60% et 70%, un remplacement devient envisageable.\nD'après mon expérience, votre appareil sera plus facilement sujet à des variations de température si la capacité tombe à 70% ou moins (ceci étant surtout vrai pour les basses températures). Votre appareil pourrait alors tout simplement s'éteindre alors que la batterie était chargée quelques instants avant.";
+
+//New translations February 15th 2015
+//Settings Title
+"dischargeTitle" = "Infos en Décharge";
+"chargeTitle" = "Infos en Charge";
+
+//Settings Labels
+"option1Label" = "Info 1";
+"option2Label" = "Info 2";
+"chargingindicatorLabel" = "Indicateur de charge";
+
+//Settings Text
+"options2Text" = "Vous pouvez choisir les informations à afficher lorsque votre appareil est connecté à un chargeur.";
+
+//Settings Options
+"dischargemA" = "décharge mA";
+"dischargemAAndUnit" = "décharge mA + unité";
+"chargemA" = "recharge mA";
+"chargemAAndUnit" = "recharge mA + unité";
+"remainingTimeFormat1" = "temps restant (format 2:30h)";
+"remainingTimeFormat2" = "temps restant (format 2.5h)";

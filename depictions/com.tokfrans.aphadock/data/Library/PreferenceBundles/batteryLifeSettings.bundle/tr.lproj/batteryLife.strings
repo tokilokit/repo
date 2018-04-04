@@ -1,0 +1,91 @@
+// Turkish Translation
+// Created on January 15th 2015 by Onur A.
+// Updated on February 17th 2015 by Onur A.
+
+//Settings Labels
+"enabledLabel" = "Aktif";
+"statusbarLabel" = "Gösterge";
+"additionalLabel" = "Ek Gösterge";
+"hidebatteryLabel" = "Pil İkonunu Gizle";
+"temperatureunitLabel" = "Sıcaklık Birimi";
+"timeintervalLabel" = "Zaman Aralığı";
+"batteryserialLabel" = "Pil Seri No";
+"versionLabel" = "Versiyon";
+"applychangesLabel" = "Değişiklikleri Uygula (Respring)";
+"disableadsLabel" = "Reklamları Kaldır";
+"donateLabel" = "Bağış Yap (PayPal ile)";
+"contactLabel" = "İletişim/Destek";
+"faqLabel" = "Sıkça Sorulan Sorular";
+"translationsLabel" = "Çeviriler";
+"tweakLabel" = "My Tweaks";
+
+//Settings Text
+"enabledText" = "Durum Çubuğu ve Kilit Ekranı'ndaki pil göstergesini değiştirmek için bunu aktive edin.";
+"optionsText" = "Durum Çubuğu'nun sağ tarafında olmasını istediğiniz pil göstergelerini seçin. Eğer 2 gösterge seçerseniz, sığmaları için pil ikonunu gizleyebilirsiniz.";
+"temperatureunitText" = "Kullanmak istediğiniz sıcaklık birimini seçin.";
+"timeintervalText" = "\"kalan süre\" ve \"(de)şarj mA\" seçenekleri için kullanım ortalaması hesaplanacak olan süreyi seçin (anlık/1 dk./5 dk./15 dk.)";
+"respringText" = "Değişikliklerin geçerli olması için cihazı Respring yapmalısınız.";
+"disableadsText" = "Programdaki reklamları kapatabilirsiniz.\nReklamları kapatmanız durumunda, küçük de olsa bir bağış yaparsanız sevinirim; zira, Battery Life'ı yapabilmek için yüzlerce saat harcadım. Teşekkür Ederim! Robert";
+
+//Donate Message
+"donate" = "Bağış yap";
+"donateCall" = "Reklamları kapatıyorsanız, bağış yaparsanız sevinirim. Teşekkürler!";
+"donateMessage" = "Tercih ettiğiniz para birimini seçin. Yardımınız için teşekkürler!";
+"back" = "Geri";
+
+//Settings options
+"none" = "Yok";
+"percent" = "%";
+"percentWithSpace" = "boşluklu %";
+"decimal" = "ondalıklı";
+"remainingmAh" = "kalan mAh";
+"remainingmAhAndUnit" = "kalan mAh + birim";
+"dischargemA" = "(de)şarj mA";
+"dischargemAAndUnit" = "(de)şarj mA + birim";
+"actualMaxCapacity" = "gerçek pil yüzdesi";
+"actualMaxCapacityAndPercent" = "gerçek yüzde + % ikonu";
+"actualMaxCapacityDecimal" = "gerçek yüzde (ondalıklı)";
+"temperature" = "sıcaklık";
+"temperatureAndUnit" = "sıcaklık + birim";
+"remainingTime" = "kalan süre (sadece deşarj)";
+
+//Temperature options
+"celsius" = "°C";
+"fahrenheit" = "°F";
+
+//Interval options
+"instant" = "Anlık";
+"1min" = "1 dakika";
+"5min" = "5 dakika";
+"15min" = "15 dakika";
+
+//FAQ (OPTIONAL - NO NEED TO TRANSLATE AT THE MOMENT)
+"question1" = "What exactly does the enabled switch do?";
+"answer1" = "If you enable the switch, you will get a more accurate battery information on your status bar and lock screen.\nThe default battery info can be inaccurate, because it isn't updated very often. On the downside you may experience some battery fluctuations while the switch is enabled. Read the next question for more info about fluctuations.";
+"question2" = "Help! My batteries' capacity fluctuates a lot. Why does that happen?";
+"answer2" = "Don't worry, your battery is probably fine. This is an usual behavior and happens mostly on iOS 8+.\nSince iOS 8 Apple has changed the method to read battery data. Before iOS 8 the capacity was an average value of multiple measurements. On iOS 8 the capacity is no longer an average value and depending on the usage of your device (Games, Videos) the capacity can fluctuate a lot (for example from 80% to 90% during a few minutes). Another important factor is the current temperature.";
+"question3" = "Does the temperature affect the battery capacity?";
+"answer3" = "Yes, it does.\nDepending on the temperature you may have a higher or lower capacity. If your battery is at a low temperature (<20 Â°C/<70 Â°F) the capacity may be lower than usual. Likewise if your battery is at a high temperature (>30°C/>90°F) the battery capacity may be higher than usual.\nRemember: Continued exposure to very high or very low temperatures, outside of Apple's specifications, may permanently decrease your batteries' capacity and life.";
+"question4" = "When should I get a new battery?";
+"answer4" = "You should get a new battery if you think the daily use of your device is limited by the battery.\nAt 80% capacity, you will experience a decrease of 20%. This means a loss of 2 hours of talk time if your device's talktime at 100% is 10 hours. I don't think that is a reason to replace the battery. Now if your capacity were to fluctuate between 60% and 70%, you should consider getting a new battery.\nFrom my experience, your device is also more prone to temperature changes at capacities of 70% or less, in particular to low temperatures. It may just shut down even though the battery was fully charged a short while ago.";
+
+//New translations February 15th 2015
+//Settings Title
+"dischargeTitle" = "Deşarj Seçenekleri";
+"chargeTitle" = "Şarj Seçenekleri";
+
+//Settings Labels
+"option1Label" = "Gösterge #1";
+"option2Label" = "Gösterge #2";
+"chargingindicatorLabel" = "Şarja takılı işareti";
+
+//Settings Text
+"options2Text" = "Şarj ve deşarj durumları için farklı göstergeler seçebilirsiniz.";
+
+//Settings Options
+"dischargemA" = "deşarj mA";
+"dischargemAAndUnit" = "deşarj mA + birim";
+"chargemA" = "şarj mA";
+"chargemAAndUnit" = "şarj mA + birim";
+"remainingTimeFormat1" = "kalan süre (format: 2:30s)";
+"remainingTimeFormat2" = "kalan süre (format: 2.5s)";

@@ -25,3 +25,16 @@ Description: swipe for more options in cydia
 Author: Tokfrans03
 Name: swipeformore
 Depiction: https://tokilokit.github.io/repo/depictions/swipeformore
+
+Package: com.tokfrans.alphadock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Tokfrans03
+Filename: ./debs/com.tokfrans.alphadock.deb
+Size: 6328
+MD5sum: dad1465a3c43d86a17e1c08909e78dd7
+Section: tweaks
+Description: makes your dock transparent
+Author: Tokfrans03
+Name: alphadock
+Depiction: https://tokilokit.github.io/repo/depictions/alphadock

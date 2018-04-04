@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = batteryLifeSettings;
+		cell = PSLinkCell;
+		detail = "batteryLifeSettingsController";
+		icon = "/Library/PreferenceBundles/batteryLifeSettings.bundle/batteryLife50x50.png";
+		isController = 1;
+		label = "Battery Life";
+	};
+}

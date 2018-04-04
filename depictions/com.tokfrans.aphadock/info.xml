@@ -1,0 +1,19 @@
+<package>
+	<id>com.tokfrans.alphadock</id>
+	<name>alphadock</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>6.0</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>makes your dock transparent</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
